@@ -71,10 +71,10 @@ of the event. We value your attendance.
 ## Credits
 
 This anti-harassment policy is based on the [example policy from the Geek
-Feminism wiki][http://geekfeminism.wikia.com/wiki/Conference_anti-harassment], created by the Ada Initiative and other volunteers.
+Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment), created by the Ada Initiative and other volunteers.
 
-Additional elements adapted from the [Tech404 Code of Conduct][https://github.com/tech404/CoC], which is
-under a [Creative Commons Attribution license][http://creativecommons.org/licenses/by/3.0/deed.en_US].
+Additional elements adapted from the [Tech404 Code of Conduct](https://github.com/tech404/CoC), which is
+under a [Creative Commons Attribution license](http://creativecommons.org/licenses/by/3.0/deed.en_US).
 
-This policy is licensed under the [Creative Commons Zero license][http://creativecommons.org/publicdomain/zero/1.0/].  It is
+This policy is licensed under the [Creative Commons Zero license](http://creativecommons.org/publicdomain/zero/1.0/).  It is
 public domain, no credit and no open licensing of your version is required.
